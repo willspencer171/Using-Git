@@ -154,3 +154,7 @@ Sometimes, when you're working remotely, you won't have been granted access to w
 In this circumstance, you can 'fork' the repository. This will create a copy of the repo in your local directory for you to work on that is entirely in your namespace and is technically yours, even if you reupload it and give it another name (shifty).
 
 This is where working collaboratively really gets its engines going. You can fork things, blame people and raise issues. Not sure what blaming is entirely.
+
+## Extensions
+
+There are a number of useful extensions in VS Code for Git management. The first you'll want is Git Graph - this one makes it easy to see a timeline of your Git repository, and includes even remote branches. You can do most of the main Git commands directly from the graph as well.
